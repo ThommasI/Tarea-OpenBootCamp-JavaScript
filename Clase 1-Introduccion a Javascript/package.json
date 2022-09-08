@@ -1,0 +1,15 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio": "node Hola este es mi primer ejercicio con Node en el mejor Bootcamp de programacion del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hola_mundo"
+  ],
+  "author": "yo",
+  "license": "ISC"
+}
